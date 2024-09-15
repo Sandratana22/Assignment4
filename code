@@ -3,7 +3,7 @@
 
 using namespace std; 
 
-//Performing the format of outpu
+//Performing the format of output
 int main(){
     cout << left << setw(10) << "Course C++ : " << right << setw(10) << 100 << "students." << endl; 
     
